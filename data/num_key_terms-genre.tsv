@@ -1,34 +1,34 @@
-	impact_type	genre	negative %Diff	positive %Diff
-0	affect	Children_fiction	70	45
-1	affect	Fantasy_fiction	52	40
-2	affect	Historical_fiction	33	20
-3	affect	Literary_fiction	53	69
-4	affect	Literary_thriller	66	50
-5	affect	Non-fiction	90	35
-6	affect	Other fiction	57	41
-7	affect	Regional_fiction	20	22
-8	affect	Romanticism	45	49
-9	affect	Suspense	69	43
-10	affect	Young_adult	65	51
-11	narrative	Children_fiction	43	23
-12	narrative	Fantasy_fiction	21	27
-13	narrative	Historical_fiction	14	12
-14	narrative	Literary_fiction	29	36
-15	narrative	Literary_thriller	23	34
-16	narrative	Non-fiction	66	8
-17	narrative	Other fiction	38	20
-18	narrative	Regional_fiction	10	9
-19	narrative	Romanticism	24	26
-20	narrative	Suspense	23	35
-21	narrative	Young_adult	28	34
-22	style	Children_fiction	29	11
-23	style	Fantasy_fiction	20	6
-24	style	Historical_fiction	10	9
-25	style	Literary_fiction	6	39
-26	style	Literary_thriller	25	12
-27	style	Non-fiction	33	13
-28	style	Other fiction	11	13
-29	style	Regional_fiction	5	7
-30	style	Romanticism	18	10
-31	style	Suspense	33	5
-32	style	Young_adult	34	7
+impact_type	genre	negative %Diff	positive %Diff
+affect	Children_fiction	70	45
+affect	Fantasy_fiction	52	40
+affect	Historical_fiction	33	20
+affect	Literary_fiction	53	69
+affect	Literary_thriller	66	50
+affect	Non-fiction	90	35
+affect	Other fiction	57	41
+affect	Regional_fiction	20	22
+affect	Romanticism	45	49
+affect	Suspense	69	43
+affect	Young_adult	65	51
+narrative	Children_fiction	43	23
+narrative	Fantasy_fiction	21	27
+narrative	Historical_fiction	14	12
+narrative	Literary_fiction	29	36
+narrative	Literary_thriller	23	34
+narrative	Non-fiction	66	8
+narrative	Other fiction	38	20
+narrative	Regional_fiction	10	9
+narrative	Romanticism	24	26
+narrative	Suspense	23	35
+narrative	Young_adult	28	34
+style	Children_fiction	29	11
+style	Fantasy_fiction	20	6
+style	Historical_fiction	10	9
+style	Literary_fiction	6	39
+style	Literary_thriller	25	12
+style	Non-fiction	33	13
+style	Other fiction	11	13
+style	Regional_fiction	5	7
+style	Romanticism	18	10
+style	Suspense	33	5
+style	Young_adult	34	7
