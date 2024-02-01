@@ -16,9 +16,9 @@ This consists of a number of Jupyter notebooks that generate the tables, figures
 
 The `data` directory contains the following files:
 - `isbn_topic_scores.tsv.gz`: the Top2Vec topic scores per ISBN
-- [key_impact_terms-more_likely_per_genre.md](key_impact_terms-more_likely_per_genre.md): contains a table with the %Diff scores of impact terms per genre and impact type that are statistically significantly more likely to occur in reviews for the given genre than for other genres. 
-- [key_impact_terms-less_likely_per_genre.md](key_impact_terms-less_likely_per_genre.md): contains a table with the %Diff scores of impact terms per genre and impact type that are statistically significantly less likely to occur in reviews for the given genre than for other genres. 
-- [nur_genre_map.md](nur_genre_map.md): contains the mapping between NUR codes and the genres used in the paper.
+- [key_impact_terms-more_likely_per_genre.md](data/key_impact_terms-more_likely_per_genre.md): contains a table with the %Diff scores of impact terms per genre and impact type that are statistically significantly more likely to occur in reviews for the given genre than for other genres. 
+- [key_impact_terms-less_likely_per_genre.md](data/key_impact_terms-less_likely_per_genre.md): contains a table with the %Diff scores of impact terms per genre and impact type that are statistically significantly less likely to occur in reviews for the given genre than for other genres. 
+- [nur_genre_map.md](data/nur_genre_map.md): contains the mapping between NUR codes and the genres used in the paper.
 
 The `images` directory contains the images used in the paper and additional images that are left out of the paper for reasons of space.
 
