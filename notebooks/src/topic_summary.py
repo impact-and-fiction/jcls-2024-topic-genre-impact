@@ -56,6 +56,13 @@ class ReviewExtractor:
         reviews = self.load_review_stats()
         raw_data = self.load_review_impact_matches()
 
+        dup_cols = [
+            'review_id', 'affect', 'style',
+             'narrative', 'reflection', 'impact_term',
+             'match_index'
+        ]
+        raw_data = raw_data[dup_cols].drop_duplicates()
+        
         reviews = reviews.rename(columns={'doc_id': 'review_id'})
         merged_reviews = pd.merge(reviews, raw_data, on='review_id')
 
@@ -102,7 +109,7 @@ class NurGenreMapper:
         284: "Young_adult",
         285: "Young_adult",
         342: "Historical_fiction",
-        343: "Romanticism",
+        343: "Romance",
         344: "Regional_fiction"
     }
 
