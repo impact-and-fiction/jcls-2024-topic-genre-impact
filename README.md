@@ -1,5 +1,7 @@
 # JCLS 2024 From Review to Genre to Novel and Back
 
+<a href="https://doi.org/10.5281/zenodo.13929510"><img src="https://zenodo.org/badge/742427672.svg" alt="DOI"></a>
+
 Code and data for the JCLS 2024 paper "From Review to Genre to Novel and Back - An Attempt To Relate Reader Impact to Phenomena of Novel Text".
 
 This consists of a number of Jupyter notebooks that generate the tables, figures and statistics that appear in the paper. 
